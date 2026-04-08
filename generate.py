@@ -359,11 +359,16 @@ def run_batch(scripts_folder: Path, cfg: AppConfig, progress_cb=None) -> list[Pa
 
 def launch_gui() -> None:
     try:
-        import tkinter as tk
-        from tkinter import filedialog, messagebox, scrolledtext, ttk
+        from ui import MainWindow
+        from PySide6.QtWidgets import QApplication
+        import sys
+        app = QApplication(sys.argv)
+        window = MainWindow()
+        window.show()
+        sys.exit(app.exec())
     except ImportError:
-        print("Tkinter unavailable. Use CLI.")
-        sys.exit(1)
+        print("PySide6 not installed. Falling back to Tkinter.")
+        # ... existing Tkinter code ...
 
     cfg = AppConfig.load()
     root = tk.Tk()

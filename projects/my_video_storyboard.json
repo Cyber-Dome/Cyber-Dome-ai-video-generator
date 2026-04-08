@@ -1,19 +1,19 @@
 [
   {
     "scene_id": 0,
-    "text": "Welcome to Domebytes AI. In this video, we are going to understand how modern applications work behind the scenes.",
+    "text": "Welcome to Domebytes. In this video, we are testing our AI video generator system.",
     "keywords": [
       "welcome",
       "domebytes",
       "video",
-      "understand",
-      "modern",
-      "applications"
+      "testing",
+      "generator",
+      "system"
     ],
     "category": "ai",
     "intent": "learning",
-    "pexels_query": "artificial intelligence interface learning",
-    "image_prompt": "wide establishing shot of programmer at laptop, welcome, domebytes, video, understand, beginning of a journey, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "pexels_query": "ai technology learning",
+    "image_prompt": "wide establishing shot of futuristic AI interface, welcome, domebytes, video, testing, beginning of a journey, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
     "animation": "ken_burns",
     "transition": "fade",
     "visual_type": "intro",
@@ -23,49 +23,23 @@
     "visual_path": null,
     "visual_mode": "intro",
     "diagram_type": "auto",
-    "diagram_prompt": "Welcome to Domebytes AI. In this video, we are going to understand how modern applications work behind the scenes."
+    "diagram_prompt": "Welcome to Domebytes. In this video, we are testing our AI video generator system."
   },
   {
     "scene_id": 1,
-    "text": "When you open an app and interact with it, everything looks simple and smooth from the user side.",
+    "text": "You should now see an intro animation playing. Now let's understand a simple process.",
     "keywords": [
-      "open",
-      "interact",
-      "everything",
-      "looks",
-      "simple",
-      "smooth"
-    ],
-    "category": "motivation",
-    "intent": "learning",
-    "pexels_query": "focused person laptop learning",
-    "image_prompt": "medium shot of programmer at laptop, open, interact, everything, looks, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
-    "animation": "ken_burns",
-    "transition": "fade",
-    "visual_type": "default",
-    "sfx": "typing",
-    "duration": 0.0,
-    "audio_path": null,
-    "visual_path": null,
-    "visual_mode": "auto",
-    "diagram_type": "auto",
-    "diagram_prompt": "When you open an app and interact with it, everything looks simple and smooth from the user side."
-  },
-  {
-    "scene_id": 2,
-    "text": "Now let's understand the process step by step. First, the client sends an API request to the server.",
-    "keywords": [
+      "intro",
+      "animation",
+      "playing",
       "understand",
-      "process",
-      "step",
-      "first",
-      "client",
-      "sends"
+      "simple",
+      "process"
     ],
     "category": "motivation",
     "intent": "learning",
     "pexels_query": "working late night learning",
-    "image_prompt": "dynamic close-up shot of focused person at desk, understand, process, step, first, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "image_prompt": "dynamic close-up shot of focused person at desk, intro, animation, playing, understand, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
     "animation": "ken_burns",
     "transition": "fade",
     "visual_type": "action",
@@ -73,24 +47,51 @@
     "duration": 0.0,
     "audio_path": null,
     "visual_path": null,
-    "visual_mode": "diagram",
-    "diagram_type": "sequence",
-    "diagram_prompt": "Now let's understand the process step by step. First, the client sends an API request to the server."
+    "visual_mode": "auto",
+    "diagram_type": "auto",
+    "diagram_prompt": "You should now see an intro animation playing. Now let's understand a simple process."
   },
   {
-    "scene_id": 3,
-    "text": "Then, the server processes the request and queries the database.",
+    "scene_id": 2,
+    "text": "How a website works step by step. First, the user enters a URL in the browser.",
     "keywords": [
-      "server",
-      "processes",
-      "request",
-      "queries",
-      "database"
+      "website",
+      "works",
+      "step",
+      "first",
+      "user",
+      "enters"
     ],
     "category": "motivation",
     "intent": "learning",
-    "pexels_query": "success moment learning",
-    "image_prompt": "medium shot of modern computer workspace, server, processes, request, queries, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "pexels_query": "working late night learning",
+    "image_prompt": "medium shot of focused person at desk, website, works, step, first, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "animation": "ken_burns",
+    "transition": "fade",
+    "visual_type": "default",
+    "sfx": null,
+    "duration": 0.0,
+    "audio_path": null,
+    "visual_path": null,
+    "visual_mode": "auto",
+    "diagram_type": "auto",
+    "diagram_prompt": "How a website works step by step. First, the user enters a URL in the browser."
+  },
+  {
+    "scene_id": 3,
+    "text": "Then the request goes to a server. The server processes the request and sends back data.",
+    "keywords": [
+      "request",
+      "goes",
+      "server",
+      "processes",
+      "sends",
+      "back"
+    ],
+    "category": "motivation",
+    "intent": "learning",
+    "pexels_query": "focused person laptop learning",
+    "image_prompt": "medium shot of modern computer workspace, request, goes, server, processes, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
     "animation": "ken_burns",
     "transition": "slide",
     "visual_type": "default",
@@ -98,25 +99,25 @@
     "duration": 0.0,
     "audio_path": null,
     "visual_path": null,
-    "visual_mode": "auto",
-    "diagram_type": "auto",
-    "diagram_prompt": "Then, the server processes the request and queries the database."
+    "visual_mode": "diagram",
+    "diagram_type": "sequence",
+    "diagram_prompt": "Then the request goes to a server. The server processes the request and sends back data."
   },
   {
     "scene_id": 4,
-    "text": "Finally, the server sends a response back to the client with the required data.",
+    "text": "Finally, the browser displays the website to the user. This process should be shown as a diagram animation.",
     "keywords": [
       "finally",
-      "server",
-      "sends",
-      "response",
-      "back",
-      "client"
+      "browser",
+      "displays",
+      "website",
+      "user",
+      "process"
     ],
     "category": "motivation",
     "intent": "learning",
-    "pexels_query": "working late night learning",
-    "image_prompt": "medium shot of modern computer workspace, finally, server, sends, response, reflective, inspiring final moment, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "pexels_query": "success moment learning",
+    "image_prompt": "medium shot of focused person at desk, finally, browser, displays, website, reflective, inspiring final moment, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
     "animation": "ken_burns",
     "transition": "zoom",
     "visual_type": "default",
@@ -124,24 +125,25 @@
     "duration": 0.0,
     "audio_path": null,
     "visual_path": null,
-    "visual_mode": "diagram",
-    "diagram_type": "sequence",
-    "diagram_prompt": "Finally, the server sends a response back to the client with the required data."
+    "visual_mode": "auto",
+    "diagram_type": "auto",
+    "diagram_prompt": "Finally, the browser displays the website to the user. This process should be shown as a diagram animation."
   },
   {
     "scene_id": 5,
-    "text": "This is how API communication works in real-world applications.",
+    "text": "Now we continue with normal content. Artificial Intelligence helps automate tasks and improve productivity.",
     "keywords": [
-      "communication",
-      "works",
-      "real",
-      "world",
-      "applications"
+      "continue",
+      "normal",
+      "content",
+      "helps",
+      "automate",
+      "tasks"
     ],
     "category": "motivation",
     "intent": "learning",
     "pexels_query": "focused person laptop learning",
-    "image_prompt": "medium shot of programmer at laptop, communication, works, real, world, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "image_prompt": "medium shot of futuristic AI interface, continue, normal, content, helps, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
     "animation": "ken_burns",
     "transition": "fade",
     "visual_type": "default",
@@ -151,23 +153,23 @@
     "visual_path": null,
     "visual_mode": "auto",
     "diagram_type": "auto",
-    "diagram_prompt": "This is how API communication works in real-world applications."
+    "diagram_prompt": "Now we continue with normal content. Artificial Intelligence helps automate tasks and improve productivity."
   },
   {
     "scene_id": 6,
-    "text": "Developers use APIs to build scalable and powerful systems efficiently.",
+    "text": "Developers use APIs, Python, and tools to build powerful applications.",
     "keywords": [
       "developers",
       "apis",
+      "python",
+      "tools",
       "build",
-      "scalable",
-      "powerful",
-      "systems"
+      "powerful"
     ],
     "category": "coding",
     "intent": "building",
-    "pexels_query": "developer coding laptop working",
-    "image_prompt": "dynamic close-up shot of programmer at laptop, developers, apis, build, scalable, hands-on creation, productive workflow, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "pexels_query": "programming workspace working",
+    "image_prompt": "dynamic close-up shot of programmer at laptop, developers, apis, python, tools, hands-on creation, productive workflow, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
     "animation": "ken_burns",
     "transition": "fade",
     "visual_type": "action",
@@ -177,31 +179,57 @@
     "visual_path": null,
     "visual_mode": "auto",
     "diagram_type": "auto",
-    "diagram_prompt": "Developers use APIs to build scalable and powerful systems efficiently."
+    "diagram_prompt": "Developers use APIs, Python, and tools to build powerful applications."
   },
   {
     "scene_id": 7,
-    "text": "Thanks for watching. Don't forget to subscribe to Domebytes.",
+    "text": "This part should show normal stock visuals or images. Now we are reaching the end of this video.",
     "keywords": [
-      "thanks",
-      "watching",
-      "forget",
-      "subscribe",
-      "domebytes"
+      "part",
+      "show",
+      "normal",
+      "stock",
+      "visuals",
+      "images"
     ],
     "category": "motivation",
     "intent": "learning",
-    "pexels_query": "success moment learning",
-    "image_prompt": "aerial wide shot, golden hour of focused person at desk, thanks, watching, forget, subscribe, reflective, inspiring final moment, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "pexels_query": "working late night learning",
+    "image_prompt": "aerial wide shot, golden hour of focused person at desk, part, show, normal, stock, focused learning atmosphere, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
     "animation": "ken_burns",
-    "transition": "fade",
+    "transition": "zoom",
     "visual_type": "outro",
     "sfx": null,
     "duration": 0.0,
     "audio_path": null,
     "visual_path": null,
+    "visual_mode": "auto",
+    "diagram_type": "auto",
+    "diagram_prompt": "This part should show normal stock visuals or images. Now we are reaching the end of this video."
+  },
+  {
+    "scene_id": 8,
+    "text": "Thanks for watching this test. See you in the next video.",
+    "keywords": [
+      "thanks",
+      "watching",
+      "test",
+      "next",
+      "video"
+    ],
+    "category": "motivation",
+    "intent": "learning",
+    "pexels_query": "success moment learning",
+    "image_prompt": "aerial wide shot, golden hour of focused person at desk, thanks, watching, test, next, reflective, inspiring final moment, cinematic photography, ultra detailed, 8K resolution, dramatic lighting, shallow depth of field, professional color grading, photorealistic, no text, no watermarks, award winning",
+    "animation": "ken_burns",
+    "transition": "slide",
+    "visual_type": "outro",
+    "sfx": "whoosh",
+    "duration": 0.0,
+    "audio_path": null,
+    "visual_path": null,
     "visual_mode": "outro",
     "diagram_type": "auto",
-    "diagram_prompt": "Thanks for watching. Don't forget to subscribe to Domebytes."
+    "diagram_prompt": "Thanks for watching this test. See you in the next video."
   }
 ]

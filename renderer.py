@@ -447,7 +447,7 @@ def get_visual_for_scene(scene: dict, cfg: AppConfig, tmp_dir: Optional[Path] = 
     # ---------- INTRO / OUTRO ----------
     if scene.get("visual_mode") == "intro":
         intro_candidates = [
-            BASE_DIR / "assets" / "video" / "intro.mp4",
+            BASE_DIR / "assets" / "videos" / "intro.mp4",
             BASE_DIR / "intro.mp4",
         ]
         for p in intro_candidates:
@@ -457,7 +457,7 @@ def get_visual_for_scene(scene: dict, cfg: AppConfig, tmp_dir: Optional[Path] = 
 
     if scene.get("visual_mode") == "outro":
         outro_candidates = [
-            BASE_DIR / "assets" / "video" / "thanks4watching.mp4",
+            BASE_DIR / "assets" / "videos" / "thanks4watching.mp4",
             BASE_DIR / "thanks4watching.mp4",
         ]
         for p in outro_candidates:

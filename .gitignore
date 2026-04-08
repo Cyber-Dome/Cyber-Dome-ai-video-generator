@@ -1,5 +1,25 @@
+# Python
 __pycache__/
 *.pyc
-.env
-venv/
 
+# Virtual env
+.venv/
+venv/
+.venv/
+
+# Logs
+*.log
+build/
+
+# Cache
+cache/
+temp/
+
+# Generated videos/audio
+*.mp4
+*.srt
+*.ass
+
+# Output folders
+rendered/
+dist/
