@@ -1,0 +1,50 @@
+{
+"tts": {
+  "engine": "edge",
+  "voice_gender": "male",
+  "rate": 160,
+  "volume": 1.0,
+  "language": "en"
+},
+
+  "subtitle": {
+    "style": "cinematic",
+    "font": "Arial",
+    "font_size": 32,
+    "color": "white",
+    "outline_color": "black",
+    "outline_width": 2,
+    "position": "bottom",
+    "karaoke_mode": false,
+    "burn_in": true
+  },
+  "video": {
+    "resolution": "1080p",
+    "aspect_ratio": "16:9",
+    "fps": 30,
+    "color_grade": "cinematic",
+    "transition": "fade",
+    "transition_duration": 0.5,
+    "export_preset": "youtube"
+  },
+  "audio": {
+    "music_volume": 0.15,
+    "sfx_volume": 0.55,
+    "voice_volume": 1.0,
+    "normalize_audio": false,
+    "music_fade_duration": 2.0,
+    "freesound_api_key": "kXIngG9BHfI27GuygG1jmv7sGMp75mFffXEaoqN7"
+  },
+  "project_name": "my_video",
+  "use_gpu": false,
+  "debug": false,
+  "image_provider": "pollinations",
+  "pexels_api_key": "FxFh8d6ERIl521PIxuv7LlblxRpTmUwwXdUTDEkdozrvgIRMbiyyeWmJ",
+  "unsplash_api_key": "4nFQqrVG_SxbEg1sg8CJH_gIWgsPy0TJAHQJWJHVZO0",
+  "use_pexels_video": true,
+  "proc_bg_style": "random",
+  "enable_sfx": true,
+  "enable_music": false,
+  "per_scene_audio": true,
+  "default_animation": "ken_burns"
+}
