@@ -3,11 +3,3 @@ __pycache__/
 .env
 venv/
 
-output/
-diagram_cache/
-dist/
-build/
-
-*.mp4
-*.wav
-*.log
