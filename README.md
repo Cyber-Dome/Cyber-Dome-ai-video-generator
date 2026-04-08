@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 What is this?
+## 🧠 About AI Video generator
 
 Domebytes AI Video Editor is a **next-generation AI video automation system** that converts plain text scripts into:
 
