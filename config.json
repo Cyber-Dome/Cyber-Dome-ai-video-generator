@@ -33,14 +33,14 @@
     "voice_volume": 1.0,
     "normalize_audio": false,
     "music_fade_duration": 2.0,
-    "freesound_api_key": "kXIngG9BHfI27GuygG1jmv7sGMp75mFffXEaoqN7"
+    "freesound_api_key": ""
   },
   "project_name": "my_video",
   "use_gpu": false,
   "debug": false,
   "image_provider": "pollinations",
-  "pexels_api_key": "FxFh8d6ERIl521PIxuv7LlblxRpTmUwwXdUTDEkdozrvgIRMbiyyeWmJ",
-  "unsplash_api_key": "4nFQqrVG_SxbEg1sg8CJH_gIWgsPy0TJAHQJWJHVZO0",
+  "pexels_api_key": "",
+  "unsplash_api_key": "",
   "use_pexels_video": true,
   "proc_bg_style": "random",
   "enable_sfx": true,
