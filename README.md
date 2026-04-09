@@ -12,6 +12,16 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cyber-Dome/Cyber-Dome-ai-video-generator/refs/heads/main/screenshots/1.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Cyber-Dome/Cyber-Dome-ai-video-generator/refs/heads/main/screenshots/2.png" width="45%"/><br>
+  <img src="https://raw.githubusercontent.com/Cyber-Dome/Cyber-Dome-ai-video-generator/refs/heads/main/screenshots/3.png" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Cyber-Dome/Cyber-Dome-ai-video-generator/refs/heads/main/screenshots/4.png" width="45%"/><br>
+  <img src="https://raw.githubusercontent.com/Cyber-Dome/Cyber-Dome-ai-video-generator/refs/heads/main/screenshots/5.png" width="60%"/>
+</p>
+
 ## 🧠 About AI Video generator
 
 Domebytes AI Video Editor is a **next-generation AI video automation system** that converts plain text scripts into:
